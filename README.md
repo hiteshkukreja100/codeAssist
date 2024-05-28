@@ -1,6 +1,7 @@
 # codeAssist
 AI powered coding assistant
-![codeAssist(UI)](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/b2ebda2c-63e9-4a66-a834-9f64b6fddb17)
+
+![codeAssist(UI)](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/68a9eae7-8843-495f-af8f-3f8bb7bd87cf)
 
 ## Overview
 
@@ -39,9 +40,13 @@ The CodeAssist is a browser extension designed to help developers quickly get co
 ## Demo
 
 **Enter Query**
-![codeAssist(UI)](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/2a77ea07-b435-47ab-9230-45633d14b7f0)
+
+![codeAssist(UI)](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/03c8362d-8559-4dd0-be1c-f958fb20856c)
+
 **Choose Response Type**
+
 ![codeAssist](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/fdaab4ff-d1c4-4708-9e5f-fb01aa138dc7)
-**... and voila**
+
+**... and voila!!**
 
 
