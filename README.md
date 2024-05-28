@@ -1,2 +1,2 @@
 # codeAssist
-AI powered code assistant
+AI powered coding assistant
