@@ -1,4 +1,4 @@
-# codeAssist
+# CodeAssist
 AI powered coding assistant
 
 ![codeAssist(UI)](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/68a9eae7-8843-495f-af8f-3f8bb7bd87cf)
@@ -47,6 +47,6 @@ The CodeAssist is a browser extension designed to help developers quickly get co
 
 ![codeAssist](https://github.com/hiteshkukreja100/codeAssist/assets/117500378/fdaab4ff-d1c4-4708-9e5f-fb01aa138dc7)
 
-**... and voila!!**
+**...and voila!!**
 
 
